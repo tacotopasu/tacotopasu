@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taco</h1>
 <h3 align="center">A passionate Computer Science Student looking to improve his programming skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pan0ramaa&label=Profile%20views&color=0e75b6&style=flat" alt="pan0ramaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tacotopasu&label=Profile%20views&color=0e75b6&style=flat" alt="tacotopasu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/swzela" target="blank"><img src="https://img.shields.io/twitter/follow/swzela?logo=twitter&style=for-the-badge" alt="swzela" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects I find interesting, usually game related**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Pan0ramaa?tab=repositories](https://github.com/Pan0ramaa?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[https://github.com/tacotopasu?tab=repositories](https://github.com/tacotopasu?tab=repositories)**
 
 - 💬 Ask me about **Python**, **C#**, **Java** and **OpenGL**
 
