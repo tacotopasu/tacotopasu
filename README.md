@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tacotopasu&label=Profile%20views&color=0e75b6&style=flat" alt="tacotopasu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tacotopasu" target="blank"><img src="https://img.shields.io/twitter/follow/swzela?logo=twitter&style=for-the-badge" alt="swzela" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tacotopasu" target="blank"><img src="https://img.shields.io/twitter/follow/tacotopasu?logo=twitter&style=for-the-badge" alt="swzela" /></a> </p>
 
 - 🌱 I’m currently learning **Python and C#**
 
