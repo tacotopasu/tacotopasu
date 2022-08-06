@@ -33,8 +33,8 @@ Have you ever had a dream?
 - 📫 How to reach me:
     - :octocat: [Github@tacotopasu](https://github.com/tacotopasu)
     - :tv: [Youtube@pan0rama](https://www.youtube.com/channel/UC3NOxWnssssid1va68u4VnQ)
-    - :camera: [Instagram@azza.vrc](https://www.instagram.com/azza.vrc/)
-    - :bird: [Twitter@swzela](https://twitter.com/swzela/)
+    - :camera: [Instagram@tacotopasu](https://www.instagram.com/tacotopasu/)
+    - :bird: [Twitter@swzela](https://twitter.com/tacotopasu/)
 
 
 ### Right now I'm listening to...
