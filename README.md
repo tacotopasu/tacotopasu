@@ -34,7 +34,7 @@ Have you ever had a dream?
     - :octocat: [Github@tacotopasu](https://github.com/tacotopasu)
     - :tv: [Youtube@pan0rama](https://www.youtube.com/channel/UC3NOxWnssssid1va68u4VnQ)
     - :camera: [Instagram@tacotopasu](https://www.instagram.com/tacotopasu/)
-    - :bird: [Twitter@swzela](https://twitter.com/tacotopasu/)
+    - :bird: [Twitter@tacotopasu](https://twitter.com/tacotopasu/)
 
 
 ### Right now I'm listening to...
