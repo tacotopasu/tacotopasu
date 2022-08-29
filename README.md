@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**, **C#**, **Java** and **OpenGL**
 
-- 📫 Reach me through **My discord server - https://discord.st/ramen**
+- 📫 Reach me through **My discord server - https://tacotopasu.com/ramen**
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tacotopasu&theme=dark)
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/swzela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swzela" height="30" width="40" /></a>
+<a href="https://twitter.com/tacotopasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swzela" height="30" width="40" /></a>
 <a href="https://discord.gg/cQDfvbrXWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cQDfvbrXWw" height="30" width="40" /></a>
 </p>
 
@@ -32,7 +32,7 @@ Have you ever had a dream?
 
 - 📫 How to reach me:
     - :octocat: [Github@tacotopasu](https://github.com/tacotopasu)
-    - :tv: [Youtube@pan0rama](https://www.youtube.com/channel/UC3NOxWnssssid1va68u4VnQ)
+    - :tv: [Youtube@tacotopasu](https://www.youtube.com/channel/UC3NOxWnssssid1va68u4VnQ)
     - :camera: [Instagram@tacotopasu](https://www.instagram.com/tacotopasu/)
     - :bird: [Twitter@tacotopasu](https://twitter.com/tacotopasu/)
 
