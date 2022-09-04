@@ -10,4 +10,4 @@ I like Persona, Jazz, and lo-fi.
     - :camera: [Instagram@tacotopasu](https://www.instagram.com/tacotopasu/)
     - :bird: [Twitter@tacotopasu](https://twitter.com/tacotopasu/)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tacotopasu&label=Profile%20views&color=0e75b6&style=flat" alt="tacotopasu" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tacotopasu&label=Profile%20views&color=D92323&style=flat" alt="tacotopasu" /> </p>
