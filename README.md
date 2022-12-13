@@ -2,7 +2,7 @@
 
 Hi, I'm Taco and I'm a terrible developer.
 
-I like Persona, Jazz, coding and lo-fi.
+I like Jazz, coding and video-games.
 
 - 📫 How to reach me:
     - :octocat: [Github@tacotopasu](https://github.com/tacotopasu)
