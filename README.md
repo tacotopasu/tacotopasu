@@ -2,7 +2,7 @@ Hi! I'm Taco and I'm a young, dumb, developer.
 
  ❤️ I like Jazz, coding and video-games.
 
- 💭 Currently obsessed with graphics programming and experimenting with MonoGame!
+ 💭 Currently obsessed with graphics programming and experimenting with SDL and low-level C and C++!
 
  🎮 I want to make games. Every silly project I work on is done with the objective of learning more and developing a game I can be proud of.
 
